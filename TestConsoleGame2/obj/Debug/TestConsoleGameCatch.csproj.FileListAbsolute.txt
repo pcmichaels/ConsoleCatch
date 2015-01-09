@@ -1,0 +1,6 @@
+C:\Users\Paul\Documents\Visual Studio 14\Projects\TestConsoleGameCatch\TestConsoleGame2\obj\Debug\TestConsoleGameCatch.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 14\Projects\TestConsoleGameCatch\TestConsoleGame2\obj\Debug\TestConsoleGame2.exe
+C:\Users\Paul\Documents\Visual Studio 14\Projects\TestConsoleGameCatch\TestConsoleGame2\obj\Debug\TestConsoleGame2.pdb
+C:\Users\Paul\Documents\Visual Studio 14\Projects\TestConsoleGameCatch\TestConsoleGame2\bin\Debug\TestConsoleGame2.exe.config
+C:\Users\Paul\Documents\Visual Studio 14\Projects\TestConsoleGameCatch\TestConsoleGame2\bin\Debug\TestConsoleGame2.exe
+C:\Users\Paul\Documents\Visual Studio 14\Projects\TestConsoleGameCatch\TestConsoleGame2\bin\Debug\TestConsoleGame2.pdb
